@@ -25,7 +25,7 @@ For this project, I built it with these:
 
 ### Screenshot
 
-![Final Screenshot](./images/final.png)
+![Final Screenshot](./frontendmentor-01-qr-code/images/final.png)
 
 ### What I learned
 
